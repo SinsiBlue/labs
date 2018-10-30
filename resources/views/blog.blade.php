@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('preloader')
-    {{-- @include('layouts.partials.preloader') --}}
+    @include('layouts.partials.preloader')
 @endsection
 
 @section('header')

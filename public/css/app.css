@@ -5694,6 +5694,7 @@ body ul {
   left: 0;
   top: 0;
   z-index: 3;
+  background-image: url("/img/overlay.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -5801,6 +5802,7 @@ body ul {
 
 .test-overlay {
   position: absolute;
+  background-image: url("/img/test-man.png");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: contain;
